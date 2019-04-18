@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_find_bookstore"
+            android:icon="@drawable/ic_bookshop"
+            android:title="@string/nav_find_bookstore" />
+
+        <item
+            android:id="@+id/nav_favorite_list"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/nav_favorite_list" />
+
+        <item
+            android:id="@+id/nav_insert_bookstore"
+            android:icon="@drawable/ic_plus"
+            android:title="@string/nav_insert_data" />
+
+    </group>
+
+    <item android:title="@string/nav_profile">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_logout" />
+        </menu>
+    </item>
+
+</menu>

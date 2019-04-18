@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BookStore Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_find_bookstore">Finding bookstore</string>
+    <string name="nav_favorite_list">My loved bookstore</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_insert_data">Insert Data</string>
+
+
+    <string name="header_image">Header Image</string>
+    <string name="name_user">Hồng Hạnh</string>
+    <string name="email">honghanh.nguyen2104@gmail.com</string>
+
+    <string name="google_maps_api_key">AIzaSyC0lK4TLcxjomF9-vqMvvpm0XPZO-QYapc</string>
+
+    <string name="hint_bookstore_name">Add the name of this bookstore</string>
+    <string name="hint_bookstore_address">Add the address of this bookstore</string>
+    <string name="hint_bookstore_telephone">Add the telephone of this bookstore</string>
+    <string name="hint_bookstore_email">Add the email of this bookstore</string>
+    <string name="hint_bookstore_overview">Add the overview of this bookstore</string>
+    <string name="hint_bookstore_posterLink">Add the poster link of this bookstore</string>
+    <string name="hint_bookstore_bigPosterLink">Add the big poster link of this bookstore</string>
+
+</resources>
